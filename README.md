@@ -7,7 +7,7 @@ This is text
 
 ## 5️⃣ Пример простого README для студента
 
-```md
+
 # My First Website on GitHub Pages
 
 This is my first static website published using GitHub Pages.
