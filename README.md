@@ -3,3 +3,23 @@
 This is text
 ```html
 <h1>Hello World</h1>
+---
+
+## 5️⃣ Пример простого README для студента
+
+```md
+# My First Website on GitHub Pages
+
+This is my first static website published using GitHub Pages.
+
+## Technologies
+- HTML
+- CSS
+- GitHub Pages
+
+## Website link
+👉 https://username.github.io/my-first-site/
+
+## Author
+Name: Student Name  
+Group: IT-23
